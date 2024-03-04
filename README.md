@@ -21,7 +21,9 @@ The dataset consists of various medical attributes of various patients. The data
 * slope: the slope of the peak exercise ST segment
 * ca: number of major vessels (0-3) colored by flourosopy
 * thal: 3 = normal; 6 = fixed; 7 = reversable defect
-* target: 1 or 0
+#### Target:
+* 0 - does not have heart disease
+* 1 - has heart disease
 
 
 ### Models, methods, and results
