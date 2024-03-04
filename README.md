@@ -7,7 +7,7 @@ Given medical attributes of various patients, predict whether the patient has he
 
 ### Dataset
 The dataset consists of various medical attributes of various patients. The dataset was obtained from the UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/45/heart+disease
-The attributes are as follows:
+##### Features:
 * age: age in years
 * sex: 1 = male; 0 = female)
 * cp: chest pain type
