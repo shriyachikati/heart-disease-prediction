@@ -41,4 +41,5 @@ The dataset consists of various medical attributes of various patients. The data
   * AUC score
 * Results:
    * Accuracy: 89%
-   * AUC score: 93
+   * Recall score: 92.12
+   * AUC score: 92.78
